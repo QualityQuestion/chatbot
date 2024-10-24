@@ -1,2 +1,17 @@
+# Core dependencies
 streamlit
-openai
+boto3
+python-dotenv
+
+# AWS specific
+botocore
+awscli
+
+# Utility packages
+pandas
+numpy
+Pillow
+pathlib
+
+# Optional but recommended for deployment
+watchdog
