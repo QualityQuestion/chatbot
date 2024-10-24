@@ -35,7 +35,7 @@ AWS_REGION=your_region
 
 4. Run the application:
 ```bash
-streamlit run llama-ip-sonnet.py
+streamlit run streamlit_app.py
 ```
 
 ## Stack
