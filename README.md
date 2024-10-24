@@ -50,4 +50,4 @@ streamlit run streamlit_app.py
 - Riot Games for the VCT game + player data
 
 
-*This is was a hackathon project, and my first time ever using an LLM or Amazon Bedrock*
+*This is was a hackathon project, and my first time ever using an LLM or Amazon Bedrock.*
