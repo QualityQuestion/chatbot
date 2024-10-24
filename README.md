@@ -9,7 +9,7 @@ A team composition analysis tool built for the DEVPOST VCT Hackathon. This appli
   - Semi-Professional (VCT Challengers)
   - Game Changers (VCT Game Changers)
   - Custom queries for more robust team options
-- Visual team compositions with agent icons
+- Visual team compositions with agent and map icons
 - Map performance analysis
 - Detailed player statistics
 - IGL designation and analysis
