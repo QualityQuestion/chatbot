@@ -18,7 +18,7 @@ A team composition analysis tool built for the DEVPOST VCT Hackathon. This appli
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vct-team-builder.git
+git clone https://github.com/QualityQuestion/chatbot.git
 ```
 
 2. Install requirements:
