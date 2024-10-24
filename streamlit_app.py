@@ -697,7 +697,7 @@ def main():
         
         col1, col2 = st.columns([1, 4])
         with col1:
-            analyze_button = st.button("Generate", key="custom_query_button")
+            analyze_button = st.button("Generate Team (Custom Query)", key="custom_query_button")
         with col2:
             if not custom_query.strip() and analyze_button:
                 st.warning("Please enter a query before analyzing.")
